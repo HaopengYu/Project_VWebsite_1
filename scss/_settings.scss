@@ -122,19 +122,16 @@ $oil         : #333333;
 $jet         : #222222;
 $black       : #000000;
 
-// Haopeng Yu Color Ways:
+// Project VW1 Color Ways:
 
-$cranberry:                  #D95585;
-$charm:                       #D96884;
-$nightShadz:               #BF3953;
-$maroonOak:              #590C13;
+$ProjectVW1: #FFC300;
+$ProjectVW1Secondary:#E88A05;
 
-// Haopeng Yu Color Ways Website Names:
+// Project VW1 Color Ways Website Names:
 
-$primary-color-one: $cranberry;
-$primary-color-two: $charm;
-$primary-color-three: $nightShadz;
-$primary-color-four: $maroonOak;
+$primary-color-one: $ProjectVW1;
+$primary-color-two: $ProjectVW1Secondary;
+
 
 //RGBA ColorWays With Oppacity
 
@@ -148,7 +145,7 @@ $thunder:         #191518;
 
 // We use these as default colors throughout
 $primary-color: $primary-color-one;
-$secondary-color: $primary-color-four;
+$secondary-color: $primary-color-two;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
 // $warning-color: #f08a24;

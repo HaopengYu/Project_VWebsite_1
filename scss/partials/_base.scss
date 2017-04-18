@@ -3,6 +3,19 @@ $marginTop: 2rem;
 $marginSmallTop:1.125rem;
 $widgetMargin: $marginTop;
 
+//Tijdelijk //
+body{
+  background-color: $smoke;
+}
+
+
+.fullWidth {
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: initial;
+}
+
 .widgetTitle{
   margin-bottom: $widgetMargin;
 }

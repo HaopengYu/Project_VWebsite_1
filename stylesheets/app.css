@@ -14770,14 +14770,14 @@ th.hide-for-touch {
 /* Slider */
 /* line 45, ../bower_components/slick-carousel/slick/slick-theme.scss */
 .slick-loading .slick-list {
-  background: #fff url('/img/ajax-loader.gif?1488375219') center center no-repeat;
+  background: #fff url('/img/ajax-loader.gif?1492523195') center center no-repeat;
 }
 
 /* Icons */
 @font-face {
   font-family: "slick";
-  src: url('/fonts/slick.eot?1488375219');
-  src: url('/fonts/slick.eot?&1488375219#iefix') format("embedded-opentype"), url('/fonts/slick.woff?1488375219') format("woff"), url('/fonts/slick.ttf?1488375219') format("truetype"), url('/fonts/slick.svg?1488375219#slick') format("svg");
+  src: url('/fonts/slick.eot?1492523195');
+  src: url('/fonts/slick.eot?&1492523195#iefix') format("embedded-opentype"), url('/fonts/slick.woff?1492523195') format("woff"), url('/fonts/slick.ttf?1492523195') format("truetype"), url('/fonts/slick.svg?1492523195#slick') format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -14941,6 +14941,7 @@ th.hide-for-touch {
   opacity: 0.75;
 }
 
+<<<<<<< HEAD
 /* line 7, ../scss/partials/_base.scss */
 body {
   background-color: #EEEEEE;
@@ -14955,17 +14956,25 @@ body {
 }
 
 /* line 19, ../scss/partials/_base.scss */
+=======
+/* line 8, ../scss/partials/_base.scss */
+>>>>>>> f2d69ec42622cccbb0939a012abd79cfec852fa0
 .widgetTitle {
   margin-bottom: 2rem;
 }
 
+<<<<<<< HEAD
 /* line 31, ../scss/partials/_base.scss */
+=======
+/* line 20, ../scss/partials/_base.scss */
+>>>>>>> f2d69ec42622cccbb0939a012abd79cfec852fa0
 .primaryButton {
   border-radius: 1.3125rem;
   background-color: #E88A05;
   padding: 0.5rem;
   box-shadow: 0px 5px 5px rgba(217, 104, 132, 0.2);
 }
+<<<<<<< HEAD
 
 /* line 1, ../scss/partials/_navigationMenu.scss */
 nav.top-bar {
@@ -14981,3 +14990,40 @@ section.top-bar-section {
 nav.ul .right {
   float: right !important;
 }
+=======
+<<<<<<< HEAD
+
+/* line 2, ../scss/partials/w2Banner.scss */
+.w2Banner.w2TitleText {
+  font-size: 1.875rem;
+}
+/* line 5, ../scss/partials/w2Banner.scss */
+.w2Banner.w2Content {
+  font-size: 0.625rem;
+}
+
+/* line 1, ../scss/partials/w3ArtBanner.scss */
+.w3ArtBanner, .w4ProductImages {
+  margin-top: 2rem;
+}
+/* line 3, ../scss/partials/w3ArtBanner.scss */
+.w3ArtBanner .w3ContentLeft, .w4ProductImages .w3ContentLeft {
+  margin-left: 12rem;
+}
+/* line 5, ../scss/partials/w3ArtBanner.scss */
+.w3ArtBanner .w3ContentLeft > img, .w4ProductImages .w3ContentLeft > img {
+  width: 12.5rem;
+  height: auto;
+}
+/* line 9, ../scss/partials/w3ArtBanner.scss */
+.w3ArtBanner .w3ContentLeft .w3ContentText, .w4ProductImages .w3ContentLeft .w3ContentText {
+  font-size: 0.625rem;
+  margin-top: 4rem;
+}
+/* line 14, ../scss/partials/w3ArtBanner.scss */
+.w3ArtBanner .w3ContentRight, .w4ProductImages .w3ContentRight {
+  margin-top: 4rem;
+}
+=======
+>>>>>>> d2b76a3b59f205a661f10260972fe857846a7c16
+>>>>>>> f2d69ec42622cccbb0939a012abd79cfec852fa0

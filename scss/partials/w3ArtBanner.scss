@@ -1,0 +1,17 @@
+.w3ArtBanner{
+  margin-top: $marginTop;
+  .w3ContentLeft{
+    margin-left: $w3marginLeft;
+    > img{
+      width:rem-calc(200);
+      height: auto;
+    }
+    .w3ContentText{
+      font-size: rem-calc(10);
+      margin-top: $w3marginTop;
+    }
+  }
+  .w3ContentRight{
+    margin-top: $w3marginTop;
+  }
+}

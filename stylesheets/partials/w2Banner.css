@@ -1,0 +1,8 @@
+/* line 2, ../../scss/partials/w2Banner.scss */
+.w2Banner.w2TitleText {
+  font-size: rem-calc(30);
+}
+/* line 5, ../../scss/partials/w2Banner.scss */
+.w2Banner.w2Content {
+  font-size: rem-calc(10);
+}
